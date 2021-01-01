@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andaiminhgroup/tet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center">
+    <a href="https://www.andaiminh.com/"><img src="https://andaiminhgroup.github.io/images/andaiminh-logo-web.png" width="175px" alt="< admg >"></a>
+</h1>
+<h1 align="center">AN ĐẠI MINH GROUP</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3 align="center">Free and open source CDN built to make life easier for developers.</h3>
 
-### Markdown
+## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Introduction](#introduction)
+  * [Other Repositories](#other-repositories)
+* [Contributing](#contributing)
+* [Sponsors](#sponsors)
+* [License](#license)
 
-```markdown
-Syntax highlighted code block
+## Introduction
 
-# Header 1
-## Header 2
-### Header 3
+This is the robot-only repository for admg, where all the library assets that are hosted on admg are stored. For the JSON files that control the libraries we host, please see the "jquery" [andaiminh.com](https://www.andaiminh.com/) repository.
 
-- Bulleted
-- List
+### Other Repositories
 
-1. Numbered
-2. List
+For our website, please refer to the [`andaiminhgroup/website`](https://github.com/andaiminhgroup/website) repository.
 
-**Bold** and _Italic_ and `Code` text
+## Contributing
 
-[Link](url) and ![Image](src)
-```
+As this repository is now considered robot-only, pull requests are no longer accepted for this repository. If you are looking to contribute to admg, please take a look at the [`andaiminhgroup/jquery`](https://github.com/andaiminhgroup/jquery/) repository or any of our other [open-source repositories on GitHub](https://github.com/andaiminhgroup/)!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Sponsors
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andaiminhgroup/tet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you are interested in becoming a sponsor, please feel free to contact us!
 
-### Support or Contact
+## License
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Each library is released under its own license. This admg repository is published under [admg](LICENSE).
